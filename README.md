@@ -59,7 +59,7 @@ The platform will include:
 - Build Showrooms & Test Ride Booking feature.  
 - Handle Upcoming Launches section (fetch data dynamically).  
 - Work on backend APIs (Node.js with express) & database setup (PostgreSQL/MongoDB).
-- 
+
 **Member 4 – [Tota Chakri] – User & Dealer Features**  
 - Implement User Accounts (login, signup, favorites).  
 - Add Reviews & Ratings section.  
