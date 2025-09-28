@@ -41,27 +41,27 @@ The platform will include:
   - MongoDB – flexible data (listings, reviews, recommendations)  
 
 ## Team Contributions
-**Member 1 – Frontend Lead (UI/UX + Navigation)**  
+**Member 1 – [Bhavya Konagala] – Frontend Lead (UI/UX + Navigation)**  
 - Set up React + Vite project structure.  
 - Implement routing (React Router) for pages: Home, Product Page, Used Bikes, Compare, Showrooms, Upcoming Launches.  
 - Build common UI components: Navbar, Footer, Sidebar, Filters.  
 - Ensure responsive design (desktop + mobile).  
 
-**Member 2 – Listings & Product Features**  
+**Member 2 – [Lingala Hasikkha] – Listings & Product Features**  
 - Implement Bike/Scooter/EV listings with filters (brand, price, fuel type).  
 - Build Product Details Page (specs, images, offers, EMI calculator).  
 - Develop Compare Models page (side-by-side view).  
 - Connect frontend with mock JSON data or backend API (later).  
 
-**Member 3 – User & Dealer Features**  
-- Implement User Accounts (login, signup, favorites).  
-- Add Reviews & Ratings section.  
-- Set up Price Alerts & Smart Recommendations.  
-- Build Dealer Dashboard (manage inventory, add/update listings).  
-
-**Member 4 – Finance Tools & Backend Integration**  
+**Member 3 – [Roshan Shaik] – Finance Tools & Backend Integration**  
 - Develop Finance Tools: EMI Calculator + Fuel Cost Calculator.  
 - Implement Used Bikes Page (buy + sell form).  
 - Build Showrooms & Test Ride Booking feature.  
 - Handle Upcoming Launches section (fetch data dynamically).  
-- Work on backend APIs (Node.js / Django / Flask) & database setup (PostgreSQL/MongoDB).  
+- Work on backend APIs (Node.js with express) & database setup (PostgreSQL/MongoDB).
+- 
+**Member 4 – [Tota Chakri] – User & Dealer Features**  
+- Implement User Accounts (login, signup, favorites).  
+- Add Reviews & Ratings section.  
+- Set up Price Alerts & Smart Recommendations.  
+- Build Dealer Dashboard (manage inventory, add/update listings).  
